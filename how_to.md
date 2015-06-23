@@ -194,4 +194,4 @@ etc.
 I shall keep working on it as an exercise. You could watch the project at:
 [GitHub](https://github.com/andyshuxin/todo-list).
 
-Please feel free to comment or ask questions here on GitHub or via Email at [andy@shux.in](andy@shux.in) or via Code4HK Slack channel.
+Please feel free to comment or ask questions here on GitHub or via Email at [andy@shux.in](mail://andy@shux.in/) or via Code4HK Slack channel.
