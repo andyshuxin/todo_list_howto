@@ -191,7 +191,7 @@ This todo-list is not very useful. There are many ways to improve it, such as:
 
 etc.
 
-I shall keep working on it as an exercise. Please feel free to watch the project at:
+I shall keep working on it as an exercise. You could watch the project at:
 [GitHub](https://github.com/andyshuxin/todo-list).
 
-Please feel free to comment or ask questions here on GitHub or via Email at andy@shux.in.
+Please feel free to comment or ask questions here on GitHub or via Email at andy@shux.in or via Code4HK Slack channel.
