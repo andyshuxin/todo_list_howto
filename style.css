@@ -1,0 +1,20 @@
+body {
+    font-size: 16px;
+    text-align: center;
+    font-family: "Helvetica", "Helvetica Neue", "Arial", sans-serif;
+    width: 640px; /* px means pixels */
+}
+
+header {
+    background-color: azure;
+    font-size: 3em;
+}
+
+li { /* list items */
+    font-size: 1.5em;
+    line-height: 1.2;
+}
+
+input, button {
+    font-size: 2em;
+}
