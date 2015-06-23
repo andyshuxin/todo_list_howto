@@ -141,7 +141,7 @@ We can modify our web-page by operating on this "document" object.
 So, let's implement the "add task" functionality. Specifically, we want that:
 - When the "Add Task!" button is clicked,
 - An list item is added to the task_list, and
-- The list item should have the text in the text_input.
+- The list item should have the text in the task_input.
 
 Now create a main.js under the same folder as index.html, and translate what we want into JavaScript:
 
@@ -194,4 +194,4 @@ etc.
 I shall keep working on it as an exercise. Please feel free to watch the project at:
 [GitHub](https://github.com/andyshuxin/todo-list).
 
-Please feel free to comment or ask questions here on GitHub or via Email at [andy@shux.in](andy@shux.in).
+Please feel free to comment or ask questions here on GitHub or via Email at andy@shux.in.
