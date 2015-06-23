@@ -125,14 +125,17 @@ Step 5: Make it work by adding main.js
 This is the truly important step. Right now, our "todo-list" has a button saying "Add Task!", but it 
 doesn't do anything when you press it. We are about to change that.
 
-In the line before </body> in **index.html**, we have referenced a script called **main.js**. This is the
+In the line before `</body>` in **index.html**, we have referenced a script called **main.js**. This is the
 JavaScipt file that's going to bring life to our web page.
 
 Before we get down to coding, let's delineate how JavaScript and HTML interacts. Basically, HTML is like
 a tree, as in a family free:
-The <HTML> tag is the root, or great-great-parent, of all other elements in the document;
-HTML has two "branches", or children, i.e., <head> and <body>;
-then <head> has its own children, and so does <body>.
+
+The `<HTML>` tag is the root, or great-great-parent, of all other elements in the document;
+
+HTML has two "branches", or children, i.e., `<head>` and `<body>`;
+
+then `<head>` has its own children, and so does `<body>`.
 
 When the browser loads the **index.html**, it'll notice the **main.js** reference near the end.
 And in that JavaScript file, the HTML is represented as an object named "document".
