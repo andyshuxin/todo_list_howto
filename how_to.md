@@ -1,9 +1,9 @@
-How to Build a Marginally Usable Todo-list
-==========================================
+How to Build a Very Basic Todo-list
+===================================
 
-This article extends what's been taught in the Code4HK JavaScript Ignite! course and supplements knowledges necessary for building a Todo-list that is barely usable.
+This article extends what's been taught in the Code4HK JavaScript Ignite! course and supplements knowledges necessary for building a Todo-list with only one functionary: adding tasks.
 
-I'm a total beginner myself. Please feel free to question or comment on anything.
+I'm a total beginner myself. Therefore mistakes are probably somewhere to be found. Please feel free to raise issue or comment.
 
 Step 1: Clarify the Requirements
 --------------------------------
@@ -16,9 +16,11 @@ Here are what we want:
 
 Here are what we don't need at the moment:
 
-1. the app doesn't need to save the tasks for the long term, even if a refresh will wipe out everything, and
+1. the app doesn't need to save the tasks for the long term, even if a refresh will wipe out everything;
 
-2. it doesn't need to be pretty.
+2. it doesn't have to be able to remove items from the list; and
+
+3. it doesn't need to be pretty.
 
 Step 2: Plan the Outline
 ------------------------
@@ -27,7 +29,7 @@ We'll need three files:
 
 1. **index.html**, which contains the structure of the page;
 
-2. **style.css**, which make the page look nicer;
+2. **style.css**, which make the page look nicer; and
 
 3. **main.js**, which allows the user to add and remove tasks.
 
@@ -38,7 +40,7 @@ Let's begin with the HTML. We like to have three parts for the web page:
 
 1. A header, which shows the title;
 
-2. A main section, which contains the task-list;
+2. A main section, which contains the task-list; and
 
 3. A footer, which contains a input-field and a button.
 
@@ -170,3 +172,26 @@ Why do we need to create the textNode? Because for technical reasons, we can't s
 to the elements. We need to first create a node containing the text, then assign it to the list items.
 
 ![Third Screenshot](pic3.png)
+
+So, What's Next?
+----------------
+This todo-list is not very useful. There are many ways to improve it, such as:
+
+1. adding functionality to remove items;
+
+2. not adding a item if the input field is empty when the button is pressed;
+
+3. automatically checking duplicates;
+
+4. making it visually pleasing;
+
+5. adding a back-end stack so that our todo list remembers the task for later use;
+
+6. adding password mechanism;
+
+etc.
+
+I shall keep working on it as an exercise. Please feel free to watch the project at:
+[GitHub](https://github.com/andyshuxin/todo-list).
+
+Please feel free to comment or ask questions here on GitHub or via Email at [andy@shux.in](andy@shux.in).
