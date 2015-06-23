@@ -1,7 +1,7 @@
 How to Build a Very Basic Todo-list
 ===================================
 
-This article extends what's been taught in the Code4HK JavaScript Ignite! course and supplements knowledges necessary for building a Todo-list with only one functionary: adding tasks.
+This article extends what's been taught in the Code4HK JavaScript Ignite! course and supplements knowledges necessary for building a Todo-list with only one functionality: adding tasks.
 
 I'm a total beginner myself. Therefore mistakes are probably somewhere to be found. Please feel free to raise issue or comment.
 
